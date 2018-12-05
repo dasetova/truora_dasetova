@@ -1,0 +1,6 @@
+[submodule "truora_test_backend"]
+	path = truora_test_backend
+	url = https://github.com/dasetova/truora_test
+[submodule "truora_test_frontend"]
+	path = truora_test_frontend
+	url = https://github.com/dasetova/truora_test_front
